@@ -14,7 +14,7 @@ function App() {
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
         <a href="https://reactjs.org" target="_blank">
-          <img src={gangaain} className="gangaain" alt="gangaain" />
+          <img src={gangaain} className="logo" alt="gangaain" />
         </a>
       </div>
       <h1> hello , i change something</h1>
